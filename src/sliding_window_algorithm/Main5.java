@@ -5,6 +5,8 @@ import java.util.HashSet;
 import java.util.HashMap;
 import java.util.Map;
 //水果成篮！！
+
+
 class Solution5 {
     public int totalFruit(int[] fruits) {
         if (fruits == null || fruits.length == 0) {
