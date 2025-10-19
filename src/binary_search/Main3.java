@@ -24,15 +24,12 @@ class Solution3 {
                 right = mid -1;
             }
         }
-
         return (int)left;
-
     }
 }
 
 
 public class Main3 {
-
 
 
 }

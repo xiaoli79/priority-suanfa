@@ -14,7 +14,6 @@ class Solution3 {
 
 
         hash.put(0,1);
-//
         int sum =0,ret =0;
         for(int x : nums){
             sum += x;
@@ -30,7 +29,6 @@ class Solution3 {
 
 
 //为什么是这个玩意~~
-
 public class Main3 {
     public static void main(String[] args) {
         Solution3 s = new Solution3();
