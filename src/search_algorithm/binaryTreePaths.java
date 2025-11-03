@@ -2,6 +2,12 @@ package search_algorithm;
 
 
 
+
+//注意oath的改变，如果path是引用变量~~，传入dfs中是全局变量~~注意恢复现场~~
+//或者在dfs中重新引入改成局部变量~~
+
+
+
 //class Solution {
 //
 //    ArrayList<String> ret = new ArrayList<>();
@@ -32,6 +38,7 @@ package search_algorithm;
 //}
 
 
-
 public class binaryTreePaths {
+
+
 }
